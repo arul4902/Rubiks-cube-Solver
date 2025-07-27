@@ -1,4 +1,1 @@
 vpython
-time
-tkinter
-random
