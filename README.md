@@ -57,20 +57,6 @@ A dynamic and visually engaging Rubik's Cube solver application built using Pyth
 
 ---
 
-## Example Screenshots
-
-### Interface
-![{521314BD-5CFD-4238-A36C-ECC38E7C0A7D}](https://github.com/user-attachments/assets/1b96bec4-2af1-4ec5-9728-2cc5b8611c9c)
-
-### Custom Scramble
-![{6A56D152-476B-420E-9D47-F6275AC96FAB}](https://github.com/user-attachments/assets/d38bf330-3abf-4cb2-b64c-a7574b9c00db)
-
-### Solving Cube
-![{31EE8E5B-1ED0-41D8-9740-DE6A46C8F3A2}](https://github.com/user-attachments/assets/0c332df0-6984-4b97-af65-f620ff6302f5)
-
-
----
-
 ## Code Highlights
 
 - **3D Visualization**: Using VPython for a detailed and interactive rendering of the cube.
